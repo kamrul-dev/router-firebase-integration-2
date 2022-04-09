@@ -4,9 +4,8 @@
 .header nav a {
     margin-right: 10px;
     padding: 5px;
-    background-color: bisque;
     border-radius: 5px;
-    border: 1px solid olivedrab;
+    border-bottom: 1px solid olivedrab;
     text-decoration: none;
     color: olivedrab;
 }

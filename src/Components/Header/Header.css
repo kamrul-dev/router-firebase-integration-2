@@ -1,0 +1,16 @@
+.header{
+    margin-top: 20px;
+}
+.header nav a {
+    margin-right: 10px;
+    padding: 5px;
+    background-color: bisque;
+    border-radius: 5px;
+    border: 1px solid olivedrab;
+    text-decoration: none;
+    color: olivedrab;
+}
+.header nav a:hover{
+    background-color: blanchedalmond;
+    color: black;
+}
